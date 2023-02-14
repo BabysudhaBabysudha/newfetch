@@ -1,0 +1,11 @@
+.fieldContainer{
+    position: relative;
+}
+.fieldIcon{
+    position: absolute;
+    top: 16%;
+    left: 2%;
+}
+.fieldContainer input::placeholder{
+    padding-left: 10%;
+}
